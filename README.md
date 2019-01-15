@@ -1,2 +1,2 @@
 # free-peer
-This repo contains work to remove Hyperledger Fabric chaincode from peer.
+This repo contains work to disassociate Hyperledger Fabric chaincode deployment and management from peer.
